@@ -5,7 +5,7 @@ Peter Langfelder, full name (at) gmail (dot) com
 
 ### Tutorial 1
 
-This tutorial introduces basic functionality of R package [anRichment](../anRichment/). 
+This tutorial introduces basic functionality of R package [anRichment](https://github.com/plangfelder/anRichment). 
 It illustrates usage for enrichment calculations of novel gene sets in existing reference gene sets, 
 creation of new gene sets, 
 and export and import of multiple gene sets at once. The example analysis is carried out using modules 
