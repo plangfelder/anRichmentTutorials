@@ -15,16 +15,16 @@ To run the tutorial code, please create a separate folder for the tutorial, down
 linked below and unpack (unzip) it in the folder. The unpacking should producde a subfolder named Data and in it file
 named MO_FxOrg_ColorVectors.csv.bz2.
 
- - [zipped data](Tutorial1-EnrichmentOfOldhamModules/01-anRichment-Tutorial1-Data.zip) 
+ - [zipped data](Tutorial1-EnrichmentOfOldhamModules/Tutorial1-EnrichmentOfOldhamModules-Data.zip) 
 
 The tutorial text and code are contained in this PDF document
 
- - [Tutorial 1](Tutorial1-EnrichmentOfOldhamModules/anRichment-Tutorial1.pdf)
+ - [Tutorial 1](Tutorial1-EnrichmentOfOldhamModules/anRichment-Tutorial1-EnrichmentOfOldhamModules.pdf)
 
 For users who would like to adapt the code to their data and analyses, we also provide an R script that contains the code
 in from Tutorial 1 in a plain text R code file that should be easier to modify and/or include in other R scripts:
 
- - [Tutorial 1 R code](Tutorial1-EnrichmentOfOldhamModules/anRichment-Tutorial1.R)
+ - [Tutorial 1 R code](Tutorial1-EnrichmentOfOldhamModules/anRichment-Tutorial1-EnrichmentOfOldhamModules.R)
 
 
 
